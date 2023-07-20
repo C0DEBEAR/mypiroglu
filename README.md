@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **City Theatre App**
 
-- 🌱 I’m currently learning **Context API**
+- 🌱 I’m currently learning **Node.js, Mern and Pern**
 
 - 💬 Ask me about **react-native, Unity, Html, Css, JavaScript**
 
